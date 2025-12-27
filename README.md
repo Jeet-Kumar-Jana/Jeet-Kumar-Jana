@@ -40,11 +40,3 @@ Problem-4: Count Multiples Using HashMap
 
 File:Problem-4.java
 
-
-
-How to Run the Programs
-
-1. Open Command Prompt / Terminal.
-2. Navigate to the folder containing the .java files.
-3. Compile the program:
-
